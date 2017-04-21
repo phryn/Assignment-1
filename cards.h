@@ -3,6 +3,8 @@
    Ricardo Salazar, February 26, 2015
 
    Interface of a simple Card class
+   
+   A small change here
    ************************************* */
 
 #include <string>
@@ -67,7 +69,7 @@ class Hand {
       // You decide what functions you'll need...
 
    private:
-      // You decide what fields you'll need...
+      // You decide what fields you'll nee
 };
 
 
